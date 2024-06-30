@@ -28,7 +28,7 @@ const App = () => {
         setTitle('');
         setIsEditing(false);
         setItemToEdit({});
-        toast.success(`Item updated Successfully`)
+          toast.success(`Item updated Successfully`)
       }
 
       else{
